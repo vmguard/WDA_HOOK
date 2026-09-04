@@ -9,3 +9,5 @@ Cool PoC in theory
 full credit to OG creator: https://github.com/iPower/KasperskyHook
 
 Security PoC not intended for malicious use.
+
+Only tested win10 22h2
