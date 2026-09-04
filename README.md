@@ -1,5 +1,8 @@
 # WDA_HOOK
 
+![normal](normal.png)
+![hooked](hooked.png)
+
 Using kasperskyhook from ipower to hook window hiding syscalls, pretty much prevents window from hiding itself from capture
 
 Don't expect great code, this was written in a couple nights several months ago.
